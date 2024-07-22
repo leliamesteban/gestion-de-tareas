@@ -24,4 +24,9 @@ Implementación de un Dashboard de Gestión de Tareas
 # Proceso
 
 1. Instalar dependencias e instanciar proyecto (npm, docker, next.js, tailwind.css, json-server, docker, next-translate)
-2. 
+2. Crear UI con componentes React.js
+3. Configurar routing con Next.js
+4. Configurar traducciones
+5. Configurar estilos CSS con Tailwind
+6. Configurar Docker
+7. Escribir tests
