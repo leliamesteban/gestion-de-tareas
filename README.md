@@ -1,10 +1,41 @@
 # Dashboard de Gestión de Tareas
+
 Implementación de un Dashboard de Gestión de Tareas
+
+# Vista general
+
+## API
+
+En [http://localhost:3001](http://localhost:3001) hay un servidor API donde en cada endpoint se devuelve un objeto JSON con la tarea.
+
+## HTML
+
+En [http://localhost:3000](http://localhost:3000) hay un servidor HTML que llama al API para que le devuelva objetos JSON y convertirlos en HTML.
+
+## Tecnologías
+
+El servidor API utiliza json-server para devolver los objetos JSON y Next.JS para convertir requests HTML en llamadas a funciones JavaScript que devuelven JSON.
+
+El servidor HTML utiliza componentes React.JS que son funciones JavaScript que devuelven HTML.
+
+El proyecto se configura y corre dentro de Docker.
 
 # Cómo ejecutar
 
-1. `npm run server`
-2. Abrir [http://localhost:3000](http://localhost:3000) en navegador
+`npm run server` para correr el API en [http://localhost:3001](http://localhost:3001)
+`npm run dev` para convertir el JSON en HTML en [http://localhost:3000](http://localhost:3000)
+
+# Ejecutar con Docker
+
+```bash
+docker-compose up --build
+```
+
+# Ejecutar los tests
+
+```bash
+npm test
+```
 
 # Especificaciones 
 

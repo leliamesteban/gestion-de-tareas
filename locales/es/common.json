@@ -1,6 +1,10 @@
 {
-  "taskList": "Lista de Tareas",
+  "taskList": "Listado de Tareas",
   "createTask": "Crear Nueva Tarea",
-  "editTask": "Editar Tarea",
-  "loading": "Cargando..."
+  "title": "Título",
+  "description": "Descripción",
+  "date": "Fecha",
+  "completeTask": "Completar Tarea",
+  "daysRemaining": "Faltan {days} días",
+  "daysPassed": "Han pasado {days} días"
 }

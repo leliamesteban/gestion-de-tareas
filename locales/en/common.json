@@ -1,6 +1,10 @@
 {
   "taskList": "Task List",
   "createTask": "Create New Task",
-  "editTask": "Edit Task",
-  "loading": "Loading..."
+  "title": "Title",
+  "description": "Description",
+  "date": "Date",
+  "completeTask": "Complete Task",
+  "daysRemaining": "{days} days remaining",
+  "daysPassed": "{days} days passed"
 }
