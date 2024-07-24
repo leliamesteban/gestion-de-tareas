@@ -73,3 +73,4 @@ docker compose up
 - Code review y pair programming con un programador senior para identificar errores o falta de best practices
 - Integración contínua
 - Botón completar en listado de tareas además de en detalle de tarea individual
+- Añadir tests para los componentes React.js (actualmente no funciona porque los componentes importan CSS, lo cual crea problemas con Jest y soluciones como mockups, babel jest y identity-obj-proxy no parecen funcionar)
