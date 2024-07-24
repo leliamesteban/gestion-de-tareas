@@ -22,9 +22,9 @@ El proyecto se configura y corre dentro de Docker.
 
 # Cómo ejecutar
 
-`npm run server` para correr el API en [http://localhost:3001](http://localhost:3001)
-`npm run dev` para convertir el JSON en HTML en [http://localhost:3000](http://localhost:3000)
-`npm run test` para correr los tests (hay que asegurar que el servidor ya está corriendo)
+- `npm run server` para correr el API en [http://localhost:3001](http://localhost:3001)
+- `npm run dev` para convertir el JSON en HTML en [http://localhost:3000](http://localhost:3000)
+- `npm run test` para correr los tests (hay que asegurar que el servidor ya está corriendo)
 
 # Ejecutar con Docker
 
