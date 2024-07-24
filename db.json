@@ -1,16 +1,125 @@
 {
   "tasks": [
-   {
-      "id": 1,
-      "title": "First Task",
+    {
+      "title": "Primera tarea",
       "description": "This is the first task",
-      "date": "2024-07-22"
+      "date": "2024-07-22",
+      "id": "1",
+      "completed": true
     },
     {
-      "id": 2,
       "title": "Second Task",
       "description": "This is the second task",
-      "date": "2024-07-23"
+      "date": "2024-07-23",
+      "id": "2",
+      "completed": true
+    },
+    {
+      "id": "fe8e",
+      "title": "Task number 3",
+      "description": "Number 3",
+      "date": "2024-07-18",
+      "completed": true
+    },
+    {
+      "id": "8cc1",
+      "title": "Four",
+      "description": "Four",
+      "date": "2024-07-24",
+      "completed": false
+    },
+    {
+      "id": "e204",
+      "title": "f",
+      "description": "f",
+      "date": "2024-07-16",
+      "completed": false
+    },
+    {
+      "id": "02c5",
+      "title": "a",
+      "description": "a",
+      "date": "2024-07-27",
+      "completed": false
+    },
+    {
+      "id": "32de",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "7740",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25",
+      "completed": true
+    },
+    {
+      "id": "5232",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "f9aa",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "1814",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "bb5c",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "fd1d",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "e282",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "5d84",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "f439",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "ebf7",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "417d",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
+    },
+    {
+      "id": "7a9f",
+      "title": "New Task",
+      "description": "New Task Description",
+      "date": "2024-07-25"
     }
   ]
 }

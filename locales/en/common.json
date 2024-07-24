@@ -1,6 +1,17 @@
 {
   "taskList": "Task List",
-  "createTask": "Create New Task",
+  "id": "Id",
   "editTask": "Edit Task",
-  "loading": "Loading..."
+  "createTask": "Create New Task",
+  "updateTask": "Update Task",
+  "title": "Title",
+  "description": "Description",
+  "date": "Date",
+  "completeTask": "Complete Task",
+  "daysRemaining": "{{days}} days remaining",
+  "daysPassed": "{{days}} days passed",
+  "errorFetching": "Error fetching task",
+  "completed": "Task Completed",
+  "notCompleted": "Task Not Completed",
+  "home": "Home"
 }

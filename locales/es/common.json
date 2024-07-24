@@ -1,6 +1,17 @@
 {
-  "taskList": "Lista de Tareas",
-  "createTask": "Crear Nueva Tarea",
+  "taskList": "Listado de Tareas",
+  "id": "Referencia",
   "editTask": "Editar Tarea",
-  "loading": "Cargando..."
+  "createTask": "Crear Nueva Tarea",
+  "updateTask": "Actualizar Tarea",
+  "title": "Título",
+  "description": "Descripción",
+  "date": "Fecha",
+  "completeTask": "Completar Tarea",
+  "daysRemaining": "Faltan {{days}} días",
+  "daysPassed": "Han pasado {{days}} días",
+  "errorFetching": "Error obteniendo tarea",
+  "completed": "Tarea completada",
+  "notCompleted": "Tarea no completada",
+  "home": "Inicio"
 }
